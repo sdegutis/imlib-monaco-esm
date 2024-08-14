@@ -1,5 +1,5 @@
 {
-  "name": "@imlib/monaco",
+  "name": "@imlib/monaco-esm",
   "version": "0.0.1",
   "devDependencies": {
     "monaco-editor": "^0.50.0"
