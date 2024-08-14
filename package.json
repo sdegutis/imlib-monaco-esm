@@ -1,0 +1,7 @@
+{
+  "name": "@imlib/monaco",
+  "version": "0.0.1",
+  "devDependencies": {
+    "monaco-editor": "^0.50.0"
+  }
+}
