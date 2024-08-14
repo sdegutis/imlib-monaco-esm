@@ -9,7 +9,5 @@ await new Promise(resolve => {
 
 export default await new Promise(resolve => {
   require.config({ paths: { vs: base } });
-  require(['vs/editor/editor.main'], (monaco) => {
-    resolve(monaco);
-  })
+  require(['vs/editor/editor.main'], resolve)
 });
