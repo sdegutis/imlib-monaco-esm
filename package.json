@@ -1,7 +1,7 @@
 {
   "name": "@imlib/monaco-esm",
-  "version": "0.0.2",
-  "description": "So we can import Monaco via ESM finally",
+  "version": "0.0.3",
+  "description": "So we can import Monaco via ESM in the browser finally",
   "main": "index.js",
   "types": "./index.d.ts",
   "repository": {

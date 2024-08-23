@@ -1,3 +1,5 @@
+*So we can import Monaco via ESM in the browser finally*
+
 Usage:
 
 ```ts
